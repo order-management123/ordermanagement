@@ -1,1 +1,2 @@
 this is for checking fast forward merge
+i am again writing for next commit this is the next commit line
