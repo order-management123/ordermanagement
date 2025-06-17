@@ -1,5 +1,6 @@
 this is for checking pull first.
-
+again checking the pull command  pull command 
+git pull jio main (git pull origin/main)
 
 i am writing this line for fetch command checking
 
