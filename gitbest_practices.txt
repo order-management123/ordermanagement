@@ -1,0 +1,17 @@
+about the commit 4
+i.e,
+don't commit your code in the middle of the work
+commit your code once everything is ready
+test your code before commit
+give proper commit message
+
+about merging 2 points
+i.e,
+avoid merge conflicts connect collabarate with the team
+don't directly merge into the main Raise a PR code review and approval then merge
+raise PR => code reviw => approval => merge
+
+about the deletion(with proper approval) 2 points
+i.e,
+delete the unwanted branches
+delete the unwanted stashes
