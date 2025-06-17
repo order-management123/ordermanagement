@@ -2,3 +2,9 @@ this is for checking pull first.
 
 
 i am writing this line for fetch command checking
+
+
+again checking the fetch command
+for fetch 
+git fetch jio main  (git fetch origin main)
+git merge jio/main   (git merge origin/main)
