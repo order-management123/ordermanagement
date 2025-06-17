@@ -1,2 +1,4 @@
 this is for checking ort merge
 i am writing this line for 2nd commit
+
+this is the commit after switching second branch to previous branch
