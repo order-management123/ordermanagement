@@ -1,2 +1,7 @@
 15
 this is the 2nd commit to check fast forward commi
+
+
+
+i use again this file for checking gitignore command
+
