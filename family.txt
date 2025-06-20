@@ -12,5 +12,7 @@ this is for checking fast forward merge
 I again use this for checking the gitignore is working or not
 
 
+this is i check the pull and fetch first this line is pull
+
 
 
