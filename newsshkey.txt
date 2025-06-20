@@ -1,0 +1,3 @@
+this is the new file generated for ssh key 
+i created a ssh key and i paste that key in github and i use ssh git remo url 
+use ssh i connect with github and i push this code using ssh -connection instead of generating tokens use ssh -connection
